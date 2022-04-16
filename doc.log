@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.3.31)  11 APR 2022 18:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.3.31)  16 APR 2022 09:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -494,6 +494,91 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
 \mathdisplay@stack=\toks37
 LaTeX Info: Redefining \[ on input line 2938.
 LaTeX Info: Redefining \] on input line 2939.
+) (D:\Miktex\tex/latex/pgf-pie\pgf-pie.sty
+Package: pgf-pie 2021/07/30 v0.6 Some LaTeX macros for pie chart by using PGF/Tikz package.
+ (D:\Miktex\tex/latex/pgf-pie\tikzlibrarypie.code.tex (D:\Miktex\tex/latex/carlisle\scalefnt.sty)
+\pgfpie@angleEnd=\dimen274
+\pgfpie@explodeLength=\count313
+\pgfpie@colorLength=\count314
+\pgfpie@sliceLength=\count315
+)) (D:\Miktex\tex/latex/multirow\multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip60
+\multirow@cntb=\count316
+\multirow@dima=\skip61
+\bigstrutjot=\dimen275
+) (D:\Miktex\tex/latex/pdfpages\pdfpages.sty
+Package: pdfpages 2022/01/29 v0.5u Insert pages of external PDF documents (AM)
+ (D:\Miktex\tex/latex/base\ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+) (D:\Miktex\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count317
+\calc@Bcount=\count318
+\calc@Adimen=\dimen276
+\calc@Bdimen=\dimen277
+\calc@Askip=\skip62
+\calc@Bskip=\skip63
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count319
+\calc@Cskip=\skip64
+) (D:\Miktex\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen278
+\ESO@tempdimb=\dimen279
+)
+\AM@pagewidth=\dimen280
+\AM@pageheight=\dimen281
+\AM@fboxrule=\dimen282
+ (D:\Miktex\tex/latex/pdfpages\pppdftex.def
+File: pppdftex.def 2022/01/29 v0.5u Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count320
+\AM@pagebox=\box68
+\AM@global@opts=\toks38
+\AM@pagecnt=\count321
+\AM@toc@title=\toks39
+\c@AM@survey=\count322
+\AM@templatesizebox=\box69
+) (D:\Miktex\tex/latex/matlab-prettifier\matlab-prettifier.sty
+Package: matlab-prettifier 2014/06/19 v0.3 A package for prettyprinting Matlab source code
+ (D:\Miktex\tex/latex/base\textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+) (D:\Miktex\tex/latex/listings\listings.sty
+\lst@mode=\count323
+\lst@gtempboxa=\box70
+\lst@token=\toks40
+\lst@length=\count324
+\lst@currlwidth=\dimen283
+\lst@column=\count325
+\lst@pos=\count326
+\lst@lostspace=\dimen284
+\lst@width=\dimen285
+\lst@newlines=\count327
+\lst@lineno=\count328
+\lst@maxwidth=\dimen286
+ (D:\Miktex\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count329
+\lst@skipnumbers=\count330
+\lst@framebox=\box71
+) (D:\Miktex\tex/latex/listings\listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+\netBracketCount@mlpr=\count331
+\blkLvl@mlpr=\count332
+\blkLvlAtClassdef@mlpr=\count333
+\emHeight@mlpr=\skip65
+\jayDepth@mlpr=\skip66
+\sectionRuleOffset@mlpr=\skip67
+\toks@mlpr=\toks41
+) (D:\Miktex\tex/latex/appendix\appendix.sty
+Package: appendix 2020/02/08 v1.2c extra appendix facilities
+\c@@pps=\count334
+\c@@ppsavesec=\count335
+\c@@ppsaveapp=\count336
 )
 \@indexfile=\write4
 \openout4 = `doc.idx'.
@@ -509,301 +594,734 @@ File: UTF8.chr 2021/10/16 4.8.5
 ) (doc.aux)
 \openout1 = `doc.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
  (D:\Miktex\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count313
-\scratchdimen=\dimen274
-\scratchbox=\box68
-\nofMPsegments=\count314
-\nofMParguments=\count315
-\everyMPshowfont=\toks38
-\MPscratchCnt=\count316
-\MPscratchDim=\dimen275
-\MPnumerator=\count317
-\makeMPintoPDFobject=\count318
-\everyMPtoPDFconversion=\toks39
+\scratchcounter=\count337
+\scratchdimen=\dimen287
+\scratchbox=\box72
+\nofMPsegments=\count338
+\nofMParguments=\count339
+\everyMPshowfont=\toks42
+\MPscratchCnt=\count340
+\MPscratchDim=\dimen288
+\MPnumerator=\count341
+\makeMPintoPDFobject=\count342
+\everyMPtoPDFconversion=\toks43
 ) (D:\Miktex\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
- (D:\Miktex\tex/generic/infwarerr\infwarerr.sty
-Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-) (D:\Miktex\tex/latex/grfext\grfext.sty
-Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
- (D:\Miktex\tex/generic/kvdefinekeys\kvdefinekeys.sty
-Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-)) (D:\Miktex\tex/latex/kvoptions\kvoptions.sty
-Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
- (D:\Miktex\tex/generic/ltxcmds\ltxcmds.sty
-Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-) (D:\Miktex\tex/generic/kvsetkeys\kvsetkeys.sty
-Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
-)) (D:\Miktex\tex/generic/pdftexcmds\pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 504.
  (D:\Miktex\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
-))
-LaTeX Font Info:    Trying to load font information for C70+zhhei on input line 35.
+)) (D:\Miktex\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+ (D:\Miktex\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+\c@lstlisting=\count343
+<./picture/Xihua_University_logo.png, id=4, 180.675pt x 180.675pt>
+File: ./picture/Xihua_University_logo.png Graphic file (type png)
+<use ./picture/Xihua_University_logo.png>
+Package pdftex.def Info: ./picture/Xihua_University_logo.png  used on input line 36.
+(pdftex.def)             Requested size: 68.99895pt x 68.99905pt.
+LaTeX Font Info:    Trying to load font information for C70+zhhei on input line 44.
  (D:\Miktex\tex/latex/zhmetrics\c70zhhei.fd
 File: c70zhhei.fd 2009/09/23 4.8.2
 )
-LaTeX Font Info:    Trying to load font information for C70+rm on input line 62.
- (D:\Miktex\tex/latex/ctex/fd\c70rm.fd
+
+LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <22.08249> not available
+(Font)              size <20.74> substituted on input line 46.
+
+
+LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <16.06> not available
+(Font)              size <17.28> substituted on input line 46.
+
+LaTeX Font Info:    Trying to load font information for C70+rm on input line 71.
+(D:\Miktex\tex/latex/ctex/fd\c70rm.fd
 File: c70rm.fd 2021/12/12 v2.5.8 Chinese font definition (CTEX)
 ) (D:\Miktex\tex/generic/ctex/zhmap\ctex-zhmap-windows.tex
 File: ctex-zhmap-windows.tex 2021/12/12 v2.5.8 Windows font map loader for pdfTeX and DVIPDFMx (CTEX)
 {C:/Users/41630/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{UGBK.sfd}{Unicode.sfd}) [1
 
-]
-Package CJKpunct Info: use punctuation spaces for family 'rm' with punctstyle (quanjiao) on input line 77.
- [1] (doc.toc
+ <./picture/Xihua_University_logo.png>]
+Package CJKpunct Info: use punctuation spaces for family 'rm' with punctstyle (quanjiao) on input line 86.
+
+Overfull \hbox (1.61038pt too wide) in paragraph at lines 97--98
+[]\T1/cmr/m/n/9.03374 (3)\C70/rm/m/n/9.03374/67 , \C70/rm/m/n/9.03374/65 á \C70/rm/m/n/9.03374/52 ) \C70/rm/m/n/9.03374/75 (\T1/cmr/m/n/9.03374 LSTM\C70/rm/m/n/9.03374/79 ^ \C70/rm/m/n/9.03374/7e œ \C70/rm/m/n/9.03374/7f Q \C70/rm/m/n/9.03374/7e ‹ \C70/rm/m/n/9.03374/5b ˘ \C70/rm/m/n/9.03374/53 ^^W \C70/rm/m/n/9.03374/4e ¨ \C70/rm/m/n/9.03374/5e ^^B \C70/rm/m/n/9.03374/67 ^^] \C70/rm/m/n/9.03374/96 3 \C70/rm/m/n/9.03374/53 : \C70/rm/m/n/9.03374/4e Œ\T1/cmr/m/n/9.03374 2015\C70/rm/m/n/9.03374/5e t\T1/cmr/m/n/9.03374 7\C70/rm/m/n/9.03374/67 ^^H\T1/cmr/m/n/9.03374 17\C70/rm/m/n/9.03374/65 Â \C70/rm/m/n/9.03374/4e - \C70/rm/m/n/9.03374/53 H\T1/cmr/m/n/9.03374 12\C70/rm/m/n/9.03374/70 π
+ []
+
+
+Overfull \hbox (2.34415pt too wide) in paragraph at lines 97--98
+\C70/rm/m/n/9.03374/81 Û\T1/cmr/m/n/9.03374 2022\C70/rm/m/n/9.03374/5e t\T1/cmr/m/n/9.03374 4\C70/rm/m/n/9.03374/67 ^^H\T1/cmr/m/n/9.03374 12\C70/rm/m/n/9.03374/65 Â \C70/rm/m/n/9.03374/4e - \C70/rm/m/n/9.03374/53 H\T1/cmr/m/n/9.03374 12\C70/rm/m/n/9.03374/70 π \C70/rm/m/n/9.03374/6b œ \C70/rm/m/n/9.03374/4e * \C70/rm/m/n/9.03374/5c ^^O \C70/rm/m/n/9.03374/65 ˆ \C70/rm/m/n/9.03374/76 Ñ$\OML/cmm/m/it/9.03374 PM[]$\C70/rm/m/n/9.03374/76 Ñ \C70/rm/m/n/9.03374/54 + \C70/rm/m/n/9.03374/91 œ|\C70/rm/m/n/9.03374/ff ^^L| \C70/rm/m/n/9.03374/51 q \C70/rm/m/n/9.03374/8b °\T1/cmr/m/n/9.03374 50764\C70/rm/m/n/9.03374/67 a$\OML/cmm/m/it/9.03374 PM[]$\C70/rm/m/n/9.03374/76 Ñ
+ []
+
+[1] (doc.toc
 
 LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <10.53937> not available
-(Font)              size <10.95> substituted on input line 4.
+(Font)              size <10.95> substituted on input line 3.
 
-)
+[2])
 \tf@toc=\write5
 \openout5 = `doc.toc'.
 
- [2] [3]
-<./picture/youquedian.png, id=211, 386.19281pt x 266.49562pt>
-File: ./picture/youquedian.png Graphic file (type png)
-<use ./picture/youquedian.png>
-Package pdftex.def Info: ./picture/youquedian.png  used on input line 108.
-(pdftex.def)             Requested size: 345.0pt x 238.07089pt.
- [4 <./picture/youquedian.png>]
-<./picture/datascrip.png, id=219, 485.815pt x 306.14375pt>
+ [3]
+Overfull \hbox (2.8412pt too wide) in paragraph at lines 116--117
+[]\C70/rm/m/n/10.53937/76 Ó \C70/rm/m/n/10.53937/52 M \C70/rm/m/n/10.53937/75 ( \C70/rm/m/n/10.53937/4e é \C70/rm/m/n/10.53937/59 ' \C70/rm/m/n/10.53937/65 p \C70/rm/m/n/10.53937/63 n \C70/rm/m/n/10.53937/98 Ñ \C70/rm/m/n/10.53937/6d K \C70/rm/m/n/10.53937/65 ˆ \C70/rm/m/n/10.53937/95 Ù \C70/rm/m/n/10.53937/5e è \C70/rm/m/n/10.53937/52 ^^W \C70/rm/m/n/10.53937/76 Ñ \C70/rm/m/n/10.53937/7b ó \C70/rm/m/n/10.53937/6c ’ \C70/rm/m/n/10.53937/67 	 \C70/rm/m/n/10.53937/5f à \C70/rm/m/n/10.53937/59 ^^Z \C70/rm/m/n/10.53937/79 Õ|\C70/rm/m/n/10.53937/ff ^^L| \C70/rm/m/n/10.53937/8b ¯ \C70/rm/m/n/10.53937/59 Ç\T1/cmr/m/n/10.53937 AR|\C70/rm/m/n/10.53937/30 ^^A| \T1/cmr/m/n/10.53937 MA|\C70/rm/m/n/10.53937/30 ^^A| \T1/cmr/m/n/10.53937 ARMA 
+ []
+
+[4] [5]
+<./picture/datascrip.png, id=239, 485.815pt x 306.14375pt>
 File: ./picture/datascrip.png Graphic file (type png)
 <use ./picture/datascrip.png>
-Package pdftex.def Info: ./picture/datascrip.png  used on input line 122.
+Package pdftex.def Info: ./picture/datascrip.png  used on input line 168.
 (pdftex.def)             Requested size: 241.49895pt x 152.18393pt.
- [5 <./picture/datascrip.png (PNG copy)>] [6]
-<./picture/saihanbapj.png, id=244, 556.0775pt x 256.96pt>
-File: ./picture/saihanbapj.png Graphic file (type png)
-<use ./picture/saihanbapj.png>
-Package pdftex.def Info: ./picture/saihanbapj.png  used on input line 168.
-(pdftex.def)             Requested size: 241.49895pt x 111.59633pt.
- [7 <./picture/saihanbapj.png (PNG copy)>]
-<./picture/biaoge1.png, id=250, 675.27281pt x 243.15843pt>
+<./picture/biaoge1.png, id=240, 675.27281pt x 243.15843pt>
 File: ./picture/biaoge1.png Graphic file (type png)
 <use ./picture/biaoge1.png>
-Package pdftex.def Info: ./picture/biaoge1.png  used on input line 207.
+Package pdftex.def Info: ./picture/biaoge1.png  used on input line 183.
 (pdftex.def)             Requested size: 345.0pt x 124.23177pt.
- [8] [9 <./picture/biaoge1.png>] [10]
-<./picture/caozuojiemian1.png, id=273, 556.0775pt x 284.06125pt>
-File: ./picture/caozuojiemian1.png Graphic file (type png)
-<use ./picture/caozuojiemian1.png>
-Package pdftex.def Info: ./picture/caozuojiemian1.png  used on input line 251.
-(pdftex.def)             Requested size: 241.49895pt x 123.36624pt.
-<saihanba.png, id=274, 390.7398pt x 330.5148pt>
+ [6 <./picture/datascrip.png (PNG copy)>] [7 <./picture/biaoge1.png>]
+<./picture/saihanbapj.png, id=261, 556.0775pt x 256.96pt>
+File: ./picture/saihanbapj.png Graphic file (type png)
+<use ./picture/saihanbapj.png>
+Package pdftex.def Info: ./picture/saihanbapj.png  used on input line 219.
+(pdftex.def)             Requested size: 241.49895pt x 111.59633pt.
+ [8 <./picture/saihanbapj.png (PNG copy)>] [9] [10]
+<saihanba.png, id=285, 390.7398pt x 330.5148pt>
 File: saihanba.png Graphic file (type png)
 <use saihanba.png>
-Package pdftex.def Info: saihanba.png  used on input line 259.
+Package pdftex.def Info: saihanba.png  used on input line 307.
 (pdftex.def)             Requested size: 241.49895pt x 204.27655pt.
- [11 <./picture/caozuojiemian1.png (PNG copy)> <./saihanba.png (PNG copy)>]
-Overfull \hbox (6.58952pt too wide) in paragraph at lines 269--270
-\C70/rm/m/n/10.53937/7a  \C70/rm/m/n/10.53937/76 Ñ \C70/rm/m/n/10.53937/4e ^^M \C70/rm/m/n/10.53937/5b å \C70/rm/m/n/10.53937/51 h \C70/rm/m/n/10.53937/71 √ \C70/rm/m/n/10.53937/70 Á \C70/rm/m/n/10.53937/4e ß \C70/rm/m/n/10.53937/72 i\T1/cmr/m/n/10.53937 )|\C70/rm/m/n/10.53937/30 ^^A| \C70/rm/m/n/10.53937/78 k \C70/rm/m/n/10.53937/91 x \C70/rm/m/n/10.53937/76 –|\C70/rm/m/n/10.53937/30 ^^A| \C70/rm/m/n/10.53937/78 ] \C70/rm/m/n/10.53937/91 x \C70/rm/m/n/10.53937/76 –|\C70/rm/m/n/10.53937/30 ^^A| \C70/rm/m/n/10.53937/94 ı \C70/rm/m/n/10.53937/76 –|\C70/rm/m/n/10.53937/30 ^^A| \C70/rm/m/n/10.53937/91 Õ — \C70/rm/m/n/10.53937/5c ^ \C70/rm/m/n/10.53937/7b I|\C70/rm/m/n/10.53937/30 ^^B| \T1/cmr/m/n/10.53937 PM2.5\C70/rm/m/n/10.53937/54 å\T1/cmr/m/n/10.53937 PM10\C70/rm/m/n/10.53937/57 (
- []
-
-<./picture/AQI.png, id=280, 421.575pt x 253.94875pt>
+ [11 <./saihanba.png (PNG copy)>]
+<./picture/AQI.png, id=290, 421.575pt x 253.94875pt>
 File: ./picture/AQI.png Graphic file (type png)
 <use ./picture/AQI.png>
-Package pdftex.def Info: ./picture/AQI.png  used on input line 276.
+Package pdftex.def Info: ./picture/AQI.png  used on input line 325.
 (pdftex.def)             Requested size: 241.49895pt x 145.4769pt.
-[12]
-<./picture/biaoge2.png, id=289, 556.0775pt x 190.7125pt>
+ [12]
+<./picture/biaoge2.png, id=301, 556.0775pt x 190.7125pt>
 File: ./picture/biaoge2.png Graphic file (type png)
 <use ./picture/biaoge2.png>
-Package pdftex.def Info: ./picture/biaoge2.png  used on input line 284.
+Package pdftex.def Info: ./picture/biaoge2.png  used on input line 333.
 (pdftex.def)             Requested size: 310.4979pt x 106.48979pt.
  [13 <./picture/AQI.png (PNG copy)> <./picture/biaoge2.png (PNG copy)>]
-<./picture/geshengpaiming.png, id=293, 556.0775pt x 426.59375pt>
+<./picture/geshengpaiming.png, id=305, 556.0775pt x 426.59375pt>
 File: ./picture/geshengpaiming.png Graphic file (type png)
 <use ./picture/geshengpaiming.png>
-Package pdftex.def Info: ./picture/geshengpaiming.png  used on input line 299.
-(pdftex.def)             Requested size: 207.0021pt x 158.80058pt.
-<./picture/renlitu.png, id=294, 556.0775pt x 317.185pt>
-File: ./picture/renlitu.png Graphic file (type png)
-<use ./picture/renlitu.png>
-Package pdftex.def Info: ./picture/renlitu.png  used on input line 307.
-(pdftex.def)             Requested size: 293.2521pt x 167.26994pt.
- [14 <./picture/geshengpaiming.png (PNG copy)> <./picture/renlitu.png (PNG copy)>]
-<./picture/PM2.5.png, id=298, 546.04pt x 459.7175pt>
-File: ./picture/PM2.5.png Graphic file (type png)
-<use ./picture/PM2.5.png>
-Package pdftex.def Info: ./picture/PM2.5.png  used on input line 316.
-(pdftex.def)             Requested size: 310.4979pt x 261.41037pt.
+Package pdftex.def Info: ./picture/geshengpaiming.png  used on input line 346.
+(pdftex.def)             Requested size: 310.4979pt x 238.20088pt.
+ [14 <./picture/geshengpaiming.png (PNG copy)>]
 
-Overfull \hbox (23.53226pt too wide) in paragraph at lines 313--318
-\C70/rm/m/n/10.53937/50 ® \C70/rm/m/n/10.53937/65 π \C70/rm/m/n/10.53937/5f ^^O \C70/rm/m/n/10.53937/4e Œ \C70/rm/m/n/10.53937/56 ˝ \C70/rm/m/n/10.53937/5b ∂ \C70/rm/m/n/10.53937/7e ﬂ \C70/rm/m/n/10.53937/8b ° \C70/rm/m/n/10.53937/5c @ \C70/rm/m/n/10.53937/65 p \C70/rm/m/n/10.53937/63 n \C70/rm/m/n/10.53937/5e ì \C70/rm/m/n/10.53937/64 ^^\ \C70/rm/m/n/10.53937/96 ∆ \C70/rm/m/n/10.53937/59 ) \C70/rm/m/n/10.53937/6d % \C70/rm/m/n/10.53937/5e ^^B\T1/cmr/m/n/10.53937 2014-2021\C70/rm/m/n/10.53937/54 ^^D \C70/rm/m/n/10.53937/5e t \C70/rm/m/n/10.53937/76 Ñ \C70/rm/m/n/10.53937/6c ^^T \C70/rm/m/n/10.53937/8c a\T1/cmr/m/n/10.53937 AQI\C70/rm/m/n/10.53937/63 ^^G \C70/rm/m/n/10.53937/65 p|\C70/rm/m/n/10.53937/30 ^^A| \T1/cmr/m/n/10.53937 PM2.5\C70/rm/m/n/10.53937/63 ^^G
+pdfTeX warning: pdflatex (file ./picture/ChinaMap.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<./picture/ChinaMap.pdf, id=309, 826.15106pt x 667.3319pt>
+File: ./picture/ChinaMap.pdf Graphic file (type pdf)
+<use ./picture/ChinaMap.pdf>
+Package pdftex.def Info: ./picture/ChinaMap.pdf  used on input line 355.
+(pdftex.def)             Requested size: 345.0pt x 278.6788pt.
+[15 <./picture/ChinaMap.pdf>]
+Package epstopdf Info: Source file: <./picture/DailyPM2.5ofhickenpoxeps.eps>
+(epstopdf)                    date: 2022-04-12 16:57:07
+(epstopdf)                    size: 335344 bytes
+(epstopdf)             Output file: <./picture/DailyPM2.5ofhickenpoxeps-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-04-12 16:57:28
+(epstopdf)                    size: 91709 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=./picture/DailyPM2.5ofhickenpoxeps-eps-converted-to.pdf ./picture/DailyPM2.5ofhickenpoxeps.eps>
+(epstopdf)             \includegraphics on input line 364.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./picture/DailyPM2.5ofhickenpoxeps-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<./picture/DailyPM2.5ofhickenpoxeps-eps-converted-to.pdf, id=327, 1445.4pt x 754.82pt>
+File: ./picture/DailyPM2.5ofhickenpoxeps-eps-converted-to.pdf Graphic file (type pdf)
+<use ./picture/DailyPM2.5ofhickenpoxeps-eps-converted-to.pdf>
+Package pdftex.def Info: ./picture/DailyPM2.5ofhickenpoxeps-eps-converted-to.pdf  used on input line 364.
+(pdftex.def)             Requested size: 310.4979pt x 162.14493pt.
+
+Overfull \hbox (8.72995pt too wide) in paragraph at lines 361--366
+\T1/cmr/m/n/10.53937 nAQ\C70/rm/m/n/10.53937/7e ƒ « \C70/rm/m/n/10.53937/76 Ñ\T1/cmr/m/n/10.53937 Beijing US Em-bassy\C70/rm/m/n/10.53937/98 y \C70/rm/m/n/10.53937/76 Ó \C70/rm/m/n/10.53937/4e - \C70/rm/m/n/10.53937/53 ^^W \C70/rm/m/n/10.53937/4e ¨ \C70/rm/m/n/10.53937/5e ^^B \C70/rm/m/n/10.53937/67 ^^] \C70/rm/m/n/10.53937/96 3 \C70/rm/m/n/10.53937/53 :\T1/cmr/m/n/10.53937 2015\C70/rm/m/n/10.53937/5e t\T1/cmr/m/n/10.53937 7\C70/rm/m/n/10.53937/67 ^^H\T1/cmr/m/n/10.53937 17\C70/rm/m/n/10.53937/65 Â \C70/rm/m/n/10.53937/4e - \C70/rm/m/n/10.53937/53 H\T1/cmr/m/n/10.53937 12\C70/rm/m/n/10.53937/70 π\T1/cmr/m/n/10.53937 -
  []
 
-<./picture/network.png, id=299, 423.5825pt x 251.94125pt>
-File: ./picture/network.png Graphic file (type png)
-<use ./picture/network.png>
-Package pdftex.def Info: ./picture/network.png  used on input line 327.
-(pdftex.def)             Requested size: 241.49895pt x 143.63875pt.
-[15 <./picture/PM2.5.png (PNG copy)>]
-<./picture/sjwl2.png, id=309, 555.07375pt x 416.55624pt>
-File: ./picture/sjwl2.png Graphic file (type png)
-<use ./picture/sjwl2.png>
-Package pdftex.def Info: ./picture/sjwl2.png  used on input line 340.
-(pdftex.def)             Requested size: 241.49895pt x 181.23228pt.
- [16 <./picture/network.png (PNG copy)>]
-Overfull \hbox (38.75977pt too wide) detected at line 353
-[]\OML/cmm/m/it/10.53937 x[] \OT1/cmr/m/n/10.53937 = (\OML/cmm/m/it/10.53937 x[]\OT1/cmr/m/n/10.53937 (1)\OML/cmm/m/it/10.53937 ; x[]\OT1/cmr/m/n/10.53937 (2)\OML/cmm/m/it/10.53937 ; :::; x[]\OT1/cmr/m/n/10.53937 (10)) = (\OML/cmm/m/it/10.53937 x[]\OT1/cmr/m/n/10.53937 (1)\OML/cmm/m/it/10.53937 ; x[]\OT1/cmr/m/n/10.53937 (1) + \OML/cmm/m/it/10.53937 x[]\OT1/cmr/m/n/10.53937 (2)\OML/cmm/m/it/10.53937 ; :::x[]\OT1/cmr/m/n/10.53937 (1) + \OML/cmm/m/it/10.53937 ::: \OT1/cmr/m/n/10.53937 + \OML/cmm/m/it/10.53937 x[]\OT1/cmr/m/n/10.53937 (\OML/cmm/m/it/10.53937 n\OT1/cmr/m/n/10.53937 ))
+[16 <./picture/DailyPM2.5ofhickenpoxeps-eps-converted-to.pdf>]
+<./picture/RNMNetStructural.png, id=343, 766.66425pt x 370.38374pt>
+File: ./picture/RNMNetStructural.png Graphic file (type png)
+<use ./picture/RNMNetStructural.png>
+Package pdftex.def Info: ./picture/RNMNetStructural.png  used on input line 392.
+(pdftex.def)             Requested size: 310.4979pt x 150.0046pt.
+ [17]
+<./picture/LSTMNetStructural.png, id=349, 572.1375pt x 329.43076pt>
+File: ./picture/LSTMNetStructural.png Graphic file (type png)
+<use ./picture/LSTMNetStructural.png>
+Package pdftex.def Info: ./picture/LSTMNetStructural.png  used on input line 399.
+(pdftex.def)             Requested size: 310.4979pt x 178.7847pt.
+ [18 <./picture/RNMNetStructural.png>] [19 <./picture/LSTMNetStructural.png>]
+Package epstopdf Info: Source file: <./picture/untide.eps>
+(epstopdf)                    date: 2022-04-12 17:16:22
+(epstopdf)                    size: 314105 bytes
+(epstopdf)             Output file: <./picture/untide-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-04-12 17:17:24
+(epstopdf)                    size: 86629 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=./picture/untide-eps-converted-to.pdf ./picture/untide.eps>
+(epstopdf)             \includegraphics on input line 463.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./picture/untide-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<./picture/untide-eps-converted-to.pdf, id=359, 1445.4pt x 754.82pt>
+File: ./picture/untide-eps-converted-to.pdf Graphic file (type pdf)
+<use ./picture/untide-eps-converted-to.pdf>
+Package pdftex.def Info: ./picture/untide-eps-converted-to.pdf  used on input line 463.
+(pdftex.def)             Requested size: 310.4979pt x 162.14493pt.
+[20]
+Package epstopdf Info: Source file: <./picture/DailyPM2.5ofhickenpoxeps.eps>
+(epstopdf)                    date: 2022-04-12 16:57:07
+(epstopdf)                    size: 335344 bytes
+(epstopdf)             Output file: <./picture/DailyPM2.5ofhickenpoxeps-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-04-12 16:57:28
+(epstopdf)                    size: 91709 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=./picture/DailyPM2.5ofhickenpoxeps-eps-converted-to.pdf ./picture/DailyPM2.5ofhickenpoxeps.eps>
+(epstopdf)             \includegraphics on input line 470.
+Package epstopdf Info: Output file is already uptodate.
+File: ./picture/DailyPM2.5ofhickenpoxeps-eps-converted-to.pdf Graphic file (type pdf)
+<use ./picture/DailyPM2.5ofhickenpoxeps-eps-converted-to.pdf>
+Package pdftex.def Info: ./picture/DailyPM2.5ofhickenpoxeps-eps-converted-to.pdf  used on input line 470.
+(pdftex.def)             Requested size: 310.4979pt x 162.14493pt.
+ [21 <./picture/untide-eps-converted-to.pdf>]
+Overfull \hbox (12.23676pt too wide) in paragraph at lines 493--495
+\C70/rm/m/n/10.53937/67 	\T1/cmr/m/n/10.53937 200\C70/rm/m/n/10.53937/4e * \C70/rm/m/n/10.53937/79 ^ \C70/rm/m/n/10.53937/7e œ \C70/rm/m/n/10.53937/51 C \C70/rm/m/n/10.53937/76 Ñ\T1/cmr/m/n/10.53937 LSTM\C70/rm/m/n/10.53937/5c B|\C70/rm/m/n/10.53937/ff ^^L| \C70/rm/m/n/10.53937/7b , \C70/rm/m/n/10.53937/4e 	 \C70/rm/m/n/10.53937/5c B \C70/rm/m/n/10.53937/62 õ \C70/rm/m/n/10.53937/5f ^^C \C70/rm/m/n/10.53937/5c B \C70/rm/m/n/10.53937/90 W \C70/rm/m/n/10.53937/5f ÿ \C70/rm/m/n/10.53937/73 á \C70/rm/m/n/10.53937/8b æ \C70/rm/m/n/10.53937/7f n \C70/rm/m/n/10.53937/4e :\T1/cmr/m/n/10.53937 0.2|\C70/rm/m/n/10.53937/ff ^^L| \C70/rm/m/n/10.53937/7b , \C70/rm/m/n/10.53937/56 € \C70/rm/m/n/10.53937/5c B \C70/rm/m/n/10.53937/66 / \C70/rm/m/n/10.53937/67 	\T1/cmr/m/n/10.53937 200\C70/rm/m/n/10.53937/4e *
  []
 
-[17 <./picture/sjwl2.png (PNG copy)>]
-Overfull \hbox (24.808pt too wide) in paragraph at lines 409--410
-[]\C70/rm/m/n/10.53937/5f S \C70/rm/m/n/10.53937/8b ° \C70/rm/m/n/10.53937/7b ó \C70/rm/m/n/10.53937/5f ó \C70/rm/m/n/10.53937/52 0 \C70/rm/m/n/10.53937/76 Ñ \C70/rm/m/n/10.53937/7e ß \C70/rm/m/n/10.53937/6b ‘$\OML/cmm/m/it/10.53937 ^^U\OT1/cmr/m/n/10.53937 (\OML/cmm/m/it/10.53937 k\OT1/cmr/m/n/10.53937 )$\C70/rm/m/n/10.53937/90 ˝ \C70/rm/m/n/10.53937/84 = \C70/rm/m/n/10.53937/57 ( \C70/rm/m/n/10.53937/53 Ô \C70/rm/m/n/10.53937/5b π \C70/rm/m/n/10.53937/89 Ü \C70/rm/m/n/10.53937/76 ÷$\OML/cmm/m/it/10.53937 ^^R$\C70/rm/m/n/10.53937/51 Ö$\OML/cmm/m/it/10.53937 x[]$\C70/rm/m/n/10.53937/5e è \C70/rm/m/n/10.53937/52 ^^W \C70/rm/m/n/10.53937/53 Ô \C70/rm/m/n/10.53937/4e Â \C70/rm/m/n/10.53937/4f \ \C70/rm/m/n/10.53937/4e : \C70/rm/m/n/10.53937/6a ! \C70/rm/m/n/10.53937/57 ã$\OML/cmm/m/it/10.53937 GM\OT1/cmr/m/n/10.53937 (1\OML/cmm/m/it/10.53937 ; \OT1/cmr/m/n/10.53937 1)$\C70/rm/m/n/10.53937/76 Ñ
+<./picture/TrainingProgress1.png, id=371, 1296.34312pt x 686.565pt>
+File: ./picture/TrainingProgress1.png Graphic file (type png)
+<use ./picture/TrainingProgress1.png>
+Package pdftex.def Info: ./picture/TrainingProgress1.png  used on input line 498.
+(pdftex.def)             Requested size: 310.4979pt x 164.44373pt.
+
+Overfull \hbox (1.26611pt too wide) in paragraph at lines 502--503
+\C70/rm/m/n/10.53937/63 ^^A \C70/rm/m/n/10.53937/57 ( \C70/rm/m/n/10.53937/4e Ü\T1/cmr/m/n/10.53937 0.3\C70/rm/m/n/10.53937/5d Ê \C70/rm/m/n/10.53937/53 Û|\C70/rm/m/n/10.53937/ff ^^L| \C70/rm/m/n/10.53937/54 ^^L \C70/rm/m/n/10.53937/65 ˆ \C70/rm/m/n/10.53937/63 _ \C70/rm/m/n/10.53937/59 1 \C70/rm/m/n/10.53937/50 < \C70/rm/m/n/10.53937/4e _ \C70/rm/m/n/10.53937/76 ¯ \C70/rm/m/n/10.53937/5b ˘ \C70/rm/m/n/10.53937/96 M \C70/rm/m/n/10.53937/4f N \C70/rm/m/n/10.53937/52 0 \C70/rm/m/n/10.53937/4e Ü \C70/rm/m/n/10.53937/67 ^^@ \C70/rm/m/n/10.53937/4f N \C70/rm/m/n/10.53937/50 <|\C70/rm/m/n/10.53937/30 ^^B| \C70/rm/m/n/10.53937/52 M \C70/rm/m/n/10.53937/67 ^^_ \C70/rm/m/n/10.53937/8b ≠ \C70/rm/m/n/10.53937/7e √ \C70/rm/m/n/10.53937/4f ^^? \C70/rm/m/n/10.53937/75 (\T1/cmr/m/n/10.53937 0.0005\C70/rm/m/n/10.53937/76 Ñ
  []
 
-<./picture/hsyc2.png, id=318, 555.07375pt x 416.55624pt>
-File: ./picture/hsyc2.png Graphic file (type png)
-<use ./picture/hsyc2.png>
-Package pdftex.def Info: ./picture/hsyc2.png  used on input line 414.
-(pdftex.def)             Requested size: 241.49895pt x 181.23228pt.
-[18]
-Overfull \hbox (8.3841pt too wide) in paragraph at lines 418--419
-[]\C70/rm/m/n/10.53937/67 * e \C70/rm/m/n/10.53937/4e 	 * \C70/rm/m/n/10.53937/67 ^^H\T1/cmr/m/n/10.53937 PM2.5|\C70/rm/m/n/10.53937/30 ^^A| \T1/cmr/m/n/10.53937 PM10\C70/rm/m/n/10.53937/53  \T1/cmr/m/n/10.53937 AQI\C70/rm/m/n/10.53937/76 Ñ \C70/rm/m/n/10.53937/50 < \C70/rm/m/n/10.53937/52 ^^F + \C70/rm/m/n/10.53937/57 (\T1/cmr/m/n/10.53937 90\C70/rm/m/n/10.53937/52 0\T1/cmr/m/n/10.53937 100|\C70/rm/m/n/10.53937/ff ^^L| \T1/cmr/m/n/10.53937 70\C70/rm/m/n/10.53937/52 0\T1/cmr/m/n/10.53937 80|\C70/rm/m/n/10.53937/ff ^^L| \T1/cmr/m/n/10.53937 50\C70/rm/m/n/10.53937/52 0\T1/cmr/m/n/10.53937 60\C70/rm/m/n/10.53937/5d Ê
+[22 <./picture/TrainingProgress1.png>]
+Package epstopdf Info: Source file: <./picture/ForecasetWithUpdates.eps>
+(epstopdf)                    date: 2022-04-15 09:18:38
+(epstopdf)                    size: 1031350 bytes
+(epstopdf)             Output file: <./picture/ForecasetWithUpdates-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-04-15 09:19:00
+(epstopdf)                    size: 330722 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=./picture/ForecasetWithUpdates-eps-converted-to.pdf ./picture/ForecasetWithUpdates.eps>
+(epstopdf)             \includegraphics on input line 509.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./picture/ForecasetWithUpdates-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<./picture/ForecasetWithUpdates-eps-converted-to.pdf, id=376, 1445.4pt x 754.82pt>
+File: ./picture/ForecasetWithUpdates-eps-converted-to.pdf Graphic file (type pdf)
+<use ./picture/ForecasetWithUpdates-eps-converted-to.pdf>
+Package pdftex.def Info: ./picture/ForecasetWithUpdates-eps-converted-to.pdf  used on input line 509.
+(pdftex.def)             Requested size: 241.49895pt x 126.10632pt.
+[23 <./picture/ForecasetWithUpdates-eps-converted-to.pdf>]
+Overfull \hbox (15.43709pt too wide) in paragraph at lines 555--557
+[]\C70/rm/m/n/10.53937/7e ” \C70/rm/m/n/10.53937/67 Ñ \C70/rm/m/n/10.53937/4e 
+|\C70/rm/m/n/10.53937/ff ^^L| \C70/rm/m/n/10.53937/59 Ç \C70/rm/m/n/10.53937/88 h\T1/cmr/m/n/10.53937 5[]\C70/rm/m/n/10.53937/62 @ \C70/rm/m/n/10.53937/8f |\C70/rm/m/n/10.53937/ff ^^L| \C70/rm/m/n/10.53937/8f ì \C70/rm/m/n/10.53937/51 e \C70/rm/m/n/10.53937/5c B \C70/rm/m/n/10.53937/67 	\T1/cmr/m/n/10.53937 240\C70/rm/m/n/10.53937/4e * \C70/rm/m/n/10.53937/79 ^ \C70/rm/m/n/10.53937/7e œ \C70/rm/m/n/10.53937/51 C|\C70/rm/m/n/10.53937/ff ^^L| \C70/rm/m/n/10.53937/96 ê \C70/rm/m/n/10.53937/85 œ \C70/rm/m/n/10.53937/5c B \C70/rm/m/n/10.53937/76 Ñ \C70/rm/m/n/10.53937/7b , \C70/rm/m/n/10.53937/4e ^^@ \C70/rm/m/n/10.53937/5c B \C70/rm/m/n/10.53937/4f ^^? \C70/rm/m/n/10.53937/75 ( \C70/rm/m/n/10.53937/4e Ü\T1/cmr/m/n/10.53937 200\C70/rm/m/n/10.53937/4e *
  []
 
-[19 <./picture/hsyc2.png (PNG copy)>]
-<./picture/touzi.png, id=326, 556.0775pt x 416.55624pt>
-File: ./picture/touzi.png Graphic file (type png)
-<use ./picture/touzi.png>
-Package pdftex.def Info: ./picture/touzi.png  used on input line 426.
-(pdftex.def)             Requested size: 241.49895pt x 180.90811pt.
- [20 <./picture/touzi.png (PNG copy)>]
-<./picture/quanquan.png, id=340, 556.0775pt x 363.3575pt>
-File: ./picture/quanquan.png Graphic file (type png)
-<use ./picture/quanquan.png>
-Package pdftex.def Info: ./picture/quanquan.png  used on input line 437.
-(pdftex.def)             Requested size: 345.0pt x 225.43456pt.
- [21 <./picture/quanquan.png (PNG copy)>]
-<./picture/geshenglsf.png, id=345, 421.575pt x 298.86656pt>
-File: ./picture/geshenglsf.png Graphic file (type png)
-<use ./picture/geshenglsf.png>
-Package pdftex.def Info: ./picture/geshenglsf.png  used on input line 447.
-(pdftex.def)             Requested size: 310.4979pt x 220.12257pt.
-<./picture/newrate.png, id=346, 1188.69093pt x 655.69969pt>
-File: ./picture/newrate.png Graphic file (type png)
-<use ./picture/newrate.png>
-Package pdftex.def Info: ./picture/newrate.png  used on input line 453.
-(pdftex.def)             Requested size: 345.0pt x 190.29811pt.
- [22 <./picture/geshenglsf.png>] [23 <./picture/newrate.png>]
-Overfull \hbox (65.24918pt too wide) in paragraph at lines 468--469
-\C70/rm/m/n/10.53937/76 Ñ \C70/rm/m/n/10.53937/7a z \C70/rm/m/n/10.53937/6c ^^T \C70/rm/m/n/10.53937/8d ( \C70/rm/m/n/10.53937/91 œ \C70/rm/m/n/10.53937/76 — \C70/rm/m/n/10.53937/6d K \C70/rm/m/n/10.53937/7c ˚ \C70/rm/m/n/10.53937/7e ﬂ \C70/rm/m/n/10.53937/78 ^^T \C70/rm/m/n/10.53937/7a v\T1/cmr/m/n/10.53937 [J].\C70/rm/m/n/10.53937/4f   \C70/rm/m/n/10.53937/61 ^^_ \C70/rm/m/n/10.53937/56 h \C70/rm/m/n/10.53937/4e ^^N \C70/rm/m/n/10.53937/5f Æ \C70/rm/m/n/10.53937/7c ˚ \C70/rm/m/n/10.53937/7e ﬂ\T1/cmr/m/n/10.53937 ,2022,41(01):37-40+49.DOI:10.13873/J.1000-
+<./picture/TrainingProgress.png, id=385, 1283.54532pt x 678.28406pt>
+File: ./picture/TrainingProgress.png Graphic file (type png)
+<use ./picture/TrainingProgress.png>
+Package pdftex.def Info: ./picture/TrainingProgress.png  used on input line 561.
+(pdftex.def)             Requested size: 310.4979pt x 164.07486pt.
+
+Overfull \hbox (11.80289pt too wide) in paragraph at lines 558--564
+\C70/rm/m/n/10.53937/63 ^^A \C70/rm/m/n/10.53937/57 ( \C70/rm/m/n/10.53937/4e Ü\T1/cmr/m/n/10.53937 0.025\C70/rm/m/n/10.53937/5d Ê \C70/rm/m/n/10.53937/53 Û|\C70/rm/m/n/10.53937/ff ^^L| \C70/rm/m/n/10.53937/54 ^^L \C70/rm/m/n/10.53937/65 ˆ \C70/rm/m/n/10.53937/63 _ \C70/rm/m/n/10.53937/59 1 \C70/rm/m/n/10.53937/50 < \C70/rm/m/n/10.53937/4e _ \C70/rm/m/n/10.53937/76 ¯ \C70/rm/m/n/10.53937/5b ˘ \C70/rm/m/n/10.53937/96 M \C70/rm/m/n/10.53937/4f N \C70/rm/m/n/10.53937/52 0 \C70/rm/m/n/10.53937/4e Ü \C70/rm/m/n/10.53937/67 ^^@ \C70/rm/m/n/10.53937/4f N \C70/rm/m/n/10.53937/50 <|\C70/rm/m/n/10.53937/30 ^^B| \C70/rm/m/n/10.53937/52 M \C70/rm/m/n/10.53937/67 ^^_ \C70/rm/m/n/10.53937/8b ≠ \C70/rm/m/n/10.53937/7e √ \C70/rm/m/n/10.53937/4f ^^? \C70/rm/m/n/10.53937/75 (\T1/cmr/m/n/10.53937 0.0005\C70/rm/m/n/10.53937/76 Ñ
+ []
+
+[24]
+Package epstopdf Info: Source file: <./picture/untide2.eps>
+(epstopdf)                    date: 2022-04-15 10:37:22
+(epstopdf)                    size: 43346 bytes
+(epstopdf)             Output file: <./picture/untide2-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-04-15 10:39:28
+(epstopdf)                    size: 13813 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=./picture/untide2-eps-converted-to.pdf ./picture/untide2.eps>
+(epstopdf)             \includegraphics on input line 570.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./picture/untide2-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<./picture/untide2-eps-converted-to.pdf, id=391, 1445.4pt x 754.82pt>
+File: ./picture/untide2-eps-converted-to.pdf Graphic file (type pdf)
+<use ./picture/untide2-eps-converted-to.pdf>
+Package pdftex.def Info: ./picture/untide2-eps-converted-to.pdf  used on input line 570.
+(pdftex.def)             Requested size: 310.4979pt x 162.14493pt.
+
+Overfull \hbox (19.57835pt too wide) in paragraph at lines 576--577
+\C70/rm/m/n/10.53937/65 ˆ \C70/rm/m/n/10.53937/95 Ù \C70/rm/m/n/10.53937/5c ^^Z \C70/rm/m/n/10.53937/67 * \C70/rm/m/n/10.53937/52 0 \C70/rm/m/n/10.53937/98 Ñ \C70/rm/m/n/10.53937/6d K \C70/rm/m/n/10.53937/82 Ç \C70/rm/m/n/10.53937/70 π \C70/rm/m/n/10.53937/54 ^^N\T1/cmr/m/n/10.53937 72\C70/rm/m/n/10.53937/5c ^^O \C70/rm/m/n/10.53937/65 ˆ|\C70/rm/m/n/10.53937/ff ^^L| \C70/rm/m/n/10.53937/54 ^^L \C70/rm/m/n/10.53937/65 ˆ \C70/rm/m/n/10.53937/56 ‡ \C70/rm/m/n/10.53937/4e : \C70/rm/m/n/10.53937/6b d \C70/rm/m/n/10.53937/65 ˆ \C70/rm/m/n/10.53937/52 ;\T1/cmr/m/n/10.53937 Open-AQ\C70/rm/m/n/10.53937/57 (\T1/cmr/m/n/10.53937 2022\C70/rm/m/n/10.53937/5e t\T1/cmr/m/n/10.53937 4\C70/rm/m/n/10.53937/67 ^^H\T1/cmr/m/n/10.53937 15\C70/rm/m/n/10.53937/65 Â\T1/cmr/m/n/10.53937 10\C70/rm/m/n/10.53937/70 π
+ []
+
+[25 <./picture/TrainingProgress.png> <./picture/untide2-eps-converted-to.pdf>] [26]
+Package epstopdf Info: Source file: <./picture/TimeRule.eps>
+(epstopdf)                    date: 2022-04-15 10:45:06
+(epstopdf)                    size: 249672 bytes
+(epstopdf)             Output file: <./picture/TimeRule-eps-converted-to.pdf>
+(epstopdf)                    date: 2022-04-15 10:46:21
+(epstopdf)                    size: 59673 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=./picture/TimeRule-eps-converted-to.pdf ./picture/TimeRule.eps>
+(epstopdf)             \includegraphics on input line 698.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex (file ./picture/TimeRule-eps-converted-to.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<./picture/TimeRule-eps-converted-to.pdf, id=404, 1445.4pt x 754.82pt>
+File: ./picture/TimeRule-eps-converted-to.pdf Graphic file (type pdf)
+<use ./picture/TimeRule-eps-converted-to.pdf>
+Package pdftex.def Info: ./picture/TimeRule-eps-converted-to.pdf  used on input line 698.
+(pdftex.def)             Requested size: 345.0pt x 180.15846pt.
+
+Overfull \hbox (6.56766pt too wide) in paragraph at lines 708--709
+ [][] 
+ []
+
+[27 <./picture/TimeRule-eps-converted-to.pdf>] [28]
+Overfull \hbox (18.58612pt too wide) in paragraph at lines 716--717
+[]\C70/rm/m/n/10.53937/51 v \C70/rm/m/n/10.53937/6b ! \C70/rm/m/n/10.53937/4f ^^? \C70/rm/m/n/10.53937/75 ( \C70/rm/m/n/10.53937/53 ^^W \C70/rm/m/n/10.53937/4e ¨ \C70/rm/m/n/10.53937/5e ^^B \C70/rm/m/n/10.53937/67 ^^] \C70/rm/m/n/10.53937/96 3 \C70/rm/m/n/10.53937/53 : \C70/rm/m/n/10.53937/4e Œ\T1/cmr/m/n/10.53937 2015\C70/rm/m/n/10.53937/5e t\T1/cmr/m/n/10.53937 7\C70/rm/m/n/10.53937/67 ^^H\T1/cmr/m/n/10.53937 7\C70/rm/m/n/10.53937/65 Â \C70/rm/m/n/10.53937/4e - \C70/rm/m/n/10.53937/53 H\T1/cmr/m/n/10.53937 12\C70/rm/m/n/10.53937/70 π \C70/rm/m/n/10.53937/52 0\T1/cmr/m/n/10.53937 2022\C70/rm/m/n/10.53937/5e t\T1/cmr/m/n/10.53937 4\C70/rm/m/n/10.53937/67 ^^H\T1/cmr/m/n/10.53937 12\C70/rm/m/n/10.53937/65 Â \C70/rm/m/n/10.53937/4e - \C70/rm/m/n/10.53937/53 H\T1/cmr/m/n/10.53937 12\C70/rm/m/n/10.53937/70 π
+ []
+
+[29]
+Overfull \hbox (48.59814pt too wide) in paragraph at lines 740--741
+[]\T1/cmr/m/n/10.53937 [4]\C70/rm/m/n/10.53937/53 ^^W \C70/rm/m/n/10.53937/4e ¨ \C70/rm/m/n/10.53937/59 ' \C70/rm/m/n/10.53937/5b f \C70/rm/m/n/10.53937/7e ﬂ \C70/rm/m/n/10.53937/8b ° \C70/rm/m/n/10.53937/79 — \C70/rm/m/n/10.53937/5b f \C70/rm/m/n/10.53937/4e - \C70/rm/m/n/10.53937/5f √|\C70/rm/m/n/10.53937/ff ^^L| \C70/rm/m/n/10.53937/53 ^^W \C70/rm/m/n/10.53937/4e ¨ \C70/rm/m/n/10.53937/59 ' \C70/rm/m/n/10.53937/5b f \C70/rm/m/n/10.53937/51 I \C70/rm/m/n/10.53937/53 N \C70/rm/m/n/10.53937/7b ° \C70/rm/m/n/10.53937/74 ^^F \C70/rm/m/n/10.53937/5b f \C70/rm/m/n/10.53937/96 b\T1/cmr/m/n/10.53937 .\C70/rm/m/n/10.53937/53 ^^W \C70/rm/m/n/10.53937/4e ¨ \C70/rm/m/n/10.53937/57 Œ \C70/rm/m/n/10.53937/53 :\T1/cmr/m/n/10.53937 2010-2014\C70/rm/m/n/10.53937/5e t$\OML/cmm/m/it/10.53937 PM[]$\C70/rm/m/n/10.53937/6c a
  []
 
 
-Overfull \hbox (29.27187pt too wide) in paragraph at lines 478--479
-[]\T1/cmr/m/n/10.53937 [8]\C70/rm/m/n/10.53937/5f ê \C70/rm/m/n/10.53937/65 ? \C70/rm/m/n/10.53937/53 N\T1/cmr/m/n/10.53937 ,\C70/rm/m/n/10.53937/66 ˘ \C70/rm/m/n/10.53937/5e ˆ \C70/rm/m/n/10.53937/66 ^^N\T1/cmr/m/n/10.53937 .\C70/rm/m/n/10.53937/57 ˙ \C70/rm/m/n/10.53937/4e é \C70/rm/m/n/10.53937/71 µ \C70/rm/m/n/10.53937/67 C\T1/cmr/m/n/10.53937 TOPSIS\C70/rm/m/n/10.53937/6a ! \C70/rm/m/n/10.53937/57 ã \C70/rm/m/n/10.53937/76 Ñ \C70/rm/m/n/10.53937/95 ^^? \C70/rm/m/n/10.53937/66 % \C70/rm/m/n/10.53937/5e ^^B \C70/rm/m/n/10.53937/6c 4 \C70/rm/m/n/10.53937/8d D \C70/rm/m/n/10.53937/6e ê \C70/rm/m/n/10.53937/62 ^^? \C70/rm/m/n/10.53937/8f } \C70/rm/m/n/10.53937/52 õ \C70/rm/m/n/10.53937/8b ƒ \C70/rm/m/n/10.53937/4e ˜\T1/cmr/m/n/10.53937 [J/OL].\C70/rm/m/n/10.53937/5b â
+Overfull \hbox (29.27187pt too wide) in paragraph at lines 746--747
+[]\T1/cmr/m/n/10.53937 [7]\C70/rm/m/n/10.53937/5f ê \C70/rm/m/n/10.53937/65 ? \C70/rm/m/n/10.53937/53 N\T1/cmr/m/n/10.53937 ,\C70/rm/m/n/10.53937/66 ˘ \C70/rm/m/n/10.53937/5e ˆ \C70/rm/m/n/10.53937/66 ^^N\T1/cmr/m/n/10.53937 .\C70/rm/m/n/10.53937/57 ˙ \C70/rm/m/n/10.53937/4e é \C70/rm/m/n/10.53937/71 µ \C70/rm/m/n/10.53937/67 C\T1/cmr/m/n/10.53937 TOPSIS\C70/rm/m/n/10.53937/6a ! \C70/rm/m/n/10.53937/57 ã \C70/rm/m/n/10.53937/76 Ñ \C70/rm/m/n/10.53937/95 ^^? \C70/rm/m/n/10.53937/66 % \C70/rm/m/n/10.53937/5e ^^B \C70/rm/m/n/10.53937/6c 4 \C70/rm/m/n/10.53937/8d D \C70/rm/m/n/10.53937/6e ê \C70/rm/m/n/10.53937/62 ^^? \C70/rm/m/n/10.53937/8f } \C70/rm/m/n/10.53937/52 õ \C70/rm/m/n/10.53937/8b ƒ \C70/rm/m/n/10.53937/4e ˜\T1/cmr/m/n/10.53937 [J/OL].\C70/rm/m/n/10.53937/5b â
  []
 
-[24] (doc.aux)
+[30] [31]
+Overfull \vbox (123.40424pt too high) has occurred while \output is active []
+
+ [32]
+<./code/ESS.pdf, id=445, 614.295pt x 794.97pt>
+File: ./code/ESS.pdf Graphic file (type pdf)
+<use ./code/ESS.pdf>
+Package pdftex.def Info: ./code/ESS.pdf  used on input line 840.
+(pdftex.def)             Requested size: 413.99895pt x 535.76888pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 840--841
+ [][] 
+ []
+
+
+Overfull \vbox (37.87425pt too high) has occurred while \output is active []
+
+ [33 <./code/ESS.pdf>]
+<./code/CA.pdf, id=472, page=1, 614.295pt x 794.97pt>
+File: ./code/CA.pdf Graphic file (type pdf)
+<use ./code/CA.pdf, page 1>
+Package pdftex.def Info: ./code/CA.pdf , page1 used on input line 845.
+(pdftex.def)             Requested size: 413.99895pt x 535.76888pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 845--846
+ [][] 
+ []
+
+<./code/CA.pdf, id=473, page=2, 614.295pt x 794.97pt>
+File: ./code/CA.pdf Graphic file (type pdf)
+<use ./code/CA.pdf, page 2>
+Package pdftex.def Info: ./code/CA.pdf , page2 used on input line 850.
+(pdftex.def)             Requested size: 413.99895pt x 535.76888pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 850--851
+ [][] 
+ []
+
+[34 <./code/CA.pdf>]
+<./code/CA.pdf, id=512, page=3, 614.295pt x 794.97pt>
+File: ./code/CA.pdf Graphic file (type pdf)
+<use ./code/CA.pdf, page 3>
+Package pdftex.def Info: ./code/CA.pdf , page3 used on input line 855.
+(pdftex.def)             Requested size: 413.99895pt x 535.76888pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 855--856
+ [][] 
+ []
+
+[35 <./code/CA.pdf>]
+<./code/CA.pdf, id=516, page=4, 614.295pt x 794.97pt>
+File: ./code/CA.pdf Graphic file (type pdf)
+<use ./code/CA.pdf, page 4>
+Package pdftex.def Info: ./code/CA.pdf , page4 used on input line 860.
+(pdftex.def)             Requested size: 413.99895pt x 535.76888pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 860--861
+ [][] 
+ []
+
+[36 <./code/CA.pdf>]
+<./code/ChinaMap.pdf, id=521, 614.295pt x 794.97pt>
+File: ./code/ChinaMap.pdf Graphic file (type pdf)
+<use ./code/ChinaMap.pdf>
+Package pdftex.def Info: ./code/ChinaMap.pdf  used on input line 866.
+(pdftex.def)             Requested size: 413.99895pt x 535.76888pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 866--867
+ [][] 
+ []
+
+[37 <./code/CA.pdf>]
+Overfull \vbox (14.6278pt too high) has occurred while \output is active []
+
+ [38 <./code/ChinaMap.pdf>]
+<./code/BeijingNet1.pdf, id=553, page=1, 614.295pt x 794.97pt>
+File: ./code/BeijingNet1.pdf Graphic file (type pdf)
+<use ./code/BeijingNet1.pdf, page 1>
+Package pdftex.def Info: ./code/BeijingNet1.pdf , page1 used on input line 872.
+(pdftex.def)             Requested size: 413.99895pt x 535.76888pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 872--873
+ [][] 
+ []
+
+<./code/BeijingNet1.pdf, id=554, page=2, 614.295pt x 794.97pt>
+File: ./code/BeijingNet1.pdf Graphic file (type pdf)
+<use ./code/BeijingNet1.pdf, page 2>
+Package pdftex.def Info: ./code/BeijingNet1.pdf , page2 used on input line 876.
+(pdftex.def)             Requested size: 413.99895pt x 535.76888pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 876--877
+ [][] 
+ []
+
+
+Overfull \vbox (15.15475pt too high) has occurred while \output is active []
+
+ [39 <./code/BeijingNet1.pdf>]
+<./code/BeijingNet1.pdf, id=618, page=3, 614.295pt x 794.97pt>
+File: ./code/BeijingNet1.pdf Graphic file (type pdf)
+<use ./code/BeijingNet1.pdf, page 3>
+Package pdftex.def Info: ./code/BeijingNet1.pdf , page3 used on input line 880.
+(pdftex.def)             Requested size: 413.99895pt x 535.76888pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 880--881
+ [][] 
+ []
+
+<./code/BeijingNet1.pdf, id=619, page=4, 614.295pt x 794.97pt>
+File: ./code/BeijingNet1.pdf Graphic file (type pdf)
+<use ./code/BeijingNet1.pdf, page 4>
+Package pdftex.def Info: ./code/BeijingNet1.pdf , page4 used on input line 884.
+(pdftex.def)             Requested size: 413.99895pt x 535.76888pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 884--885
+ [][] 
+ []
+
+[40 <./code/BeijingNet1.pdf>]
+<./code/BeijingNet1.pdf, id=623, page=5, 614.295pt x 794.97pt>
+File: ./code/BeijingNet1.pdf Graphic file (type pdf)
+<use ./code/BeijingNet1.pdf, page 5>
+Package pdftex.def Info: ./code/BeijingNet1.pdf , page5 used on input line 888.
+(pdftex.def)             Requested size: 413.99895pt x 535.76888pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 888--889
+ [][] 
+ []
+
+[41 <./code/BeijingNet1.pdf>]
+<./code/BeijingNet1.pdf, id=627, page=6, 614.295pt x 794.97pt>
+File: ./code/BeijingNet1.pdf Graphic file (type pdf)
+<use ./code/BeijingNet1.pdf, page 6>
+Package pdftex.def Info: ./code/BeijingNet1.pdf , page6 used on input line 892.
+(pdftex.def)             Requested size: 413.99895pt x 535.76888pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 892--893
+ [][] 
+ []
+
+[42 <./code/BeijingNet1.pdf>]
+<./code/BeijingNet1.pdf, id=632, page=7, 614.295pt x 794.97pt>
+File: ./code/BeijingNet1.pdf Graphic file (type pdf)
+<use ./code/BeijingNet1.pdf, page 7>
+Package pdftex.def Info: ./code/BeijingNet1.pdf , page7 used on input line 896.
+(pdftex.def)             Requested size: 413.99895pt x 535.76888pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 896--897
+ [][] 
+ []
+
+[43 <./code/BeijingNet1.pdf>]
+<./code/BeijingNet1.pdf, id=636, page=8, 614.295pt x 794.97pt>
+File: ./code/BeijingNet1.pdf Graphic file (type pdf)
+<use ./code/BeijingNet1.pdf, page 8>
+Package pdftex.def Info: ./code/BeijingNet1.pdf , page8 used on input line 900.
+(pdftex.def)             Requested size: 413.99895pt x 535.76888pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 900--901
+ [][] 
+ []
+
+[44 <./code/BeijingNet1.pdf>]
+<./code/BeijingNet1.pdf, id=640, page=9, 614.295pt x 794.97pt>
+File: ./code/BeijingNet1.pdf Graphic file (type pdf)
+<use ./code/BeijingNet1.pdf, page 9>
+Package pdftex.def Info: ./code/BeijingNet1.pdf , page9 used on input line 904.
+(pdftex.def)             Requested size: 413.99895pt x 535.76888pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 904--905
+ [][] 
+ []
+
+[45 <./code/BeijingNet1.pdf>]
+<./code/BeijingNet1.pdf, id=644, page=10, 614.295pt x 794.97pt>
+File: ./code/BeijingNet1.pdf Graphic file (type pdf)
+<use ./code/BeijingNet1.pdf, page 10>
+Package pdftex.def Info: ./code/BeijingNet1.pdf , page10 used on input line 908.
+(pdftex.def)             Requested size: 413.99895pt x 535.76888pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 908--909
+ [][] 
+ []
+
+[46 <./code/BeijingNet1.pdf>]
+<./code/BeijingNet1.pdf, id=648, page=11, 614.295pt x 794.97pt>
+File: ./code/BeijingNet1.pdf Graphic file (type pdf)
+<use ./code/BeijingNet1.pdf, page 11>
+Package pdftex.def Info: ./code/BeijingNet1.pdf , page11 used on input line 912.
+(pdftex.def)             Requested size: 413.99895pt x 535.76888pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 912--913
+ [][] 
+ []
+
+[47 <./code/BeijingNet1.pdf>] [48 <./code/BeijingNet1.pdf>]
+<./code/BeijingNet1.pdf, id=656, page=12, 614.295pt x 794.97pt>
+File: ./code/BeijingNet1.pdf Graphic file (type pdf)
+<use ./code/BeijingNet1.pdf, page 12>
+Package pdftex.def Info: ./code/BeijingNet1.pdf , page12 used on input line 917.
+(pdftex.def)             Requested size: 413.99895pt x 535.76888pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 917--918
+ [][] 
+ []
+
+[49 <./code/BeijingNet1.pdf>]
+<./code/BeijingNet2.pdf, id=660, page=1, 614.295pt x 794.97pt>
+File: ./code/BeijingNet2.pdf Graphic file (type pdf)
+<use ./code/BeijingNet2.pdf, page 1>
+Package pdftex.def Info: ./code/BeijingNet2.pdf , page1 used on input line 924.
+(pdftex.def)             Requested size: 413.99895pt x 535.76888pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 924--925
+ [][] 
+ []
+
+[50 <./code/BeijingNet1.pdf>]
+Overfull \vbox (15.15475pt too high) has occurred while \output is active []
+
+ [51 <./code/BeijingNet2.pdf>]
+<./code/BeijingNet2.pdf, id=725, page=2, 614.295pt x 794.97pt>
+File: ./code/BeijingNet2.pdf Graphic file (type pdf)
+<use ./code/BeijingNet2.pdf, page 2>
+Package pdftex.def Info: ./code/BeijingNet2.pdf , page2 used on input line 929.
+(pdftex.def)             Requested size: 413.99895pt x 535.76888pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 929--930
+ [][] 
+ []
+
+<./code/BeijingNet2.pdf, id=726, page=3, 614.295pt x 794.97pt>
+File: ./code/BeijingNet2.pdf Graphic file (type pdf)
+<use ./code/BeijingNet2.pdf, page 3>
+Package pdftex.def Info: ./code/BeijingNet2.pdf , page3 used on input line 934.
+(pdftex.def)             Requested size: 413.99895pt x 535.76888pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 934--935
+ [][] 
+ []
+
+[52 <./code/BeijingNet2.pdf>]
+<./code/BeijingNet2.pdf, id=788, page=4, 614.295pt x 794.97pt>
+File: ./code/BeijingNet2.pdf Graphic file (type pdf)
+<use ./code/BeijingNet2.pdf, page 4>
+Package pdftex.def Info: ./code/BeijingNet2.pdf , page4 used on input line 939.
+(pdftex.def)             Requested size: 413.99895pt x 535.76888pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 939--940
+ [][] 
+ []
+
+[53 <./code/BeijingNet2.pdf>]
+<./code/BeijingNet2.pdf, id=792, page=5, 614.295pt x 794.97pt>
+File: ./code/BeijingNet2.pdf Graphic file (type pdf)
+<use ./code/BeijingNet2.pdf, page 5>
+Package pdftex.def Info: ./code/BeijingNet2.pdf , page5 used on input line 944.
+(pdftex.def)             Requested size: 413.99895pt x 535.76888pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 944--945
+ [][] 
+ []
+
+[54 <./code/BeijingNet2.pdf>]
+<./code/BeijingNet2.pdf, id=797, page=6, 614.295pt x 794.97pt>
+File: ./code/BeijingNet2.pdf Graphic file (type pdf)
+<use ./code/BeijingNet2.pdf, page 6>
+Package pdftex.def Info: ./code/BeijingNet2.pdf , page6 used on input line 949.
+(pdftex.def)             Requested size: 413.99895pt x 535.76888pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 949--950
+ [][] 
+ []
+
+[55 <./code/BeijingNet2.pdf>]
+<./code/BeijingNet2.pdf, id=801, page=7, 614.295pt x 794.97pt>
+File: ./code/BeijingNet2.pdf Graphic file (type pdf)
+<use ./code/BeijingNet2.pdf, page 7>
+Package pdftex.def Info: ./code/BeijingNet2.pdf , page7 used on input line 954.
+(pdftex.def)             Requested size: 413.99895pt x 535.76888pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 954--955
+ [][] 
+ []
+
+[56 <./code/BeijingNet2.pdf>]
+<./code/BeijingNet2.pdf, id=805, page=8, 614.295pt x 794.97pt>
+File: ./code/BeijingNet2.pdf Graphic file (type pdf)
+<use ./code/BeijingNet2.pdf, page 8>
+Package pdftex.def Info: ./code/BeijingNet2.pdf , page8 used on input line 959.
+(pdftex.def)             Requested size: 413.99895pt x 535.76888pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 959--960
+ [][] 
+ []
+
+[57 <./code/BeijingNet2.pdf>]
+<./code/BeijingNet2.pdf, id=809, page=9, 614.295pt x 794.97pt>
+File: ./code/BeijingNet2.pdf Graphic file (type pdf)
+<use ./code/BeijingNet2.pdf, page 9>
+Package pdftex.def Info: ./code/BeijingNet2.pdf , page9 used on input line 964.
+(pdftex.def)             Requested size: 413.99895pt x 535.76888pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 964--965
+ [][] 
+ []
+
+[58 <./code/BeijingNet2.pdf>]
+<./code/BeijingNet2.pdf, id=813, page=10, 614.295pt x 794.97pt>
+File: ./code/BeijingNet2.pdf Graphic file (type pdf)
+<use ./code/BeijingNet2.pdf, page 10>
+Package pdftex.def Info: ./code/BeijingNet2.pdf , page10 used on input line 969.
+(pdftex.def)             Requested size: 413.99895pt x 535.76888pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 969--970
+ [][] 
+ []
+
+[59 <./code/BeijingNet2.pdf>]
+<./code/BeijingNet2.pdf, id=817, page=11, 614.295pt x 794.97pt>
+File: ./code/BeijingNet2.pdf Graphic file (type pdf)
+<use ./code/BeijingNet2.pdf, page 11>
+Package pdftex.def Info: ./code/BeijingNet2.pdf , page11 used on input line 974.
+(pdftex.def)             Requested size: 413.99895pt x 535.76888pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 974--975
+ [][] 
+ []
+
+[60 <./code/BeijingNet2.pdf>] [61 <./code/BeijingNet2.pdf>] (doc.aux)
 
 LaTeX Font Warning: Size substitutions with differences
-(Font)              up to 0.41063pt have occurred.
+(Font)              up to 1.34248pt have occurred.
 
  ) 
 Here is how much of TeX's memory you used:
- 20171 strings out of 478582
- 394914 string characters out of 2860759
- 627686 words of memory out of 3000000
- 37497 multiletter control sequences out of 15000+600000
- 549934 words of font info for 305 fonts, out of 8000000 for 9000
+ 23239 strings out of 478582
+ 448544 string characters out of 2860759
+ 677200 words of memory out of 3000000
+ 40428 multiletter control sequences out of 15000+600000
+ 582114 words of font info for 419 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 100i,10n,104p,1221b,350s stack positions out of 10000i,1000n,20000p,200000b,80000s
-<C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf> <C:\Users\41630\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi602\ecbx1200.pk> <C:\Users\41630\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi632\ecbx1000.pk><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc> <C:\Users\41630\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi632\ecrm1000.pk><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf> <C:\Users\41630\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi753\ecbx1200.pk><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc> <C:\Users\41630\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi632\ecsl1000.pk><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc> <C:\Users\41630\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi602\ecrm1200.pk><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf> <C:\Users\41630\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi767\ecrm1728.pk><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><D:/Miktex/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/Miktex/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/Miktex/fonts/type1/public/amsfonts/cm/cmmi7.pfb><D:/Miktex/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Miktex/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/Miktex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Miktex/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on doc.pdf (25 pages, 1784395 bytes).
+ 100i,11n,104p,1193b,933s stack positions out of 10000i,1000n,20000p,200000b,80000s
+<C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc> <C:\Users\41630\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi753\ecbx1200.pk><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc> <C:\Users\41630\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi632\ecsl1000.pk><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simsun.ttc> <C:\Users\41630\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi632\ecrm1000.pk><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf> <C:\Users\41630\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi602\ecbx1200.pk><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf> <C:\Users\41630\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi632\ecbx1000.pk><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc> <C:\Users\41630\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi602\ecrm0900.pk><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc> <C:\Users\41630\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi602\ecrm1200.pk><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf> <C:\Users\41630\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi767\ecrm1728.pk><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><D:/Miktex/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/Miktex/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/Miktex/fonts/type1/public/amsfonts/cm/cmmi12.pfb><D:/Miktex/fonts/type1/public/amsfonts/cm/cmmi5.pfb><D:/Miktex/fonts/type1/public/amsfonts/cm/cmmi6.pfb><D:/Miktex/fonts/type1/public/amsfonts/cm/cmmi7.pfb><D:/Miktex/fonts/type1/public/amsfonts/cm/cmmi8.pfb><D:/Miktex/fonts/type1/public/amsfonts/cm/cmmi9.pfb><D:/Miktex/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Miktex/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/Miktex/fonts/type1/public/amsfonts/cm/cmr6.pfb><D:/Miktex/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/Miktex/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/Miktex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Miktex/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on doc.pdf (62 pages, 6493362 bytes).
 PDF statistics:
- 1032 PDF objects out of 1200 (max. 8388607)
+ 1580 PDF objects out of 1728 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 423 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 564 words of extra memory for PDF output out of 10000 (max. 10000000)
 
